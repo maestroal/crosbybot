@@ -8,9 +8,9 @@ sudo apt install nodejs
 sudo apt install git
 sudo git clone https://github.com/maestroal/crosbybot
 cd crosbybot
-npm install
+sudo npm install
 ```
 ## Run
 ```bash
-node index
+sudo node index
 ```
