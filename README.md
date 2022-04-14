@@ -8,7 +8,7 @@ sudo apt install nodejs
 sudo apt install git
 sudo git clone https://github.com/maestroal/crosbybot
 cd crosbybot
-sudo npm i qrcode-termina
+sudo npm i qrcode-terminal
 sudo npm i urlencode
 sudo npm i cheerio
 sudo npm i axios
